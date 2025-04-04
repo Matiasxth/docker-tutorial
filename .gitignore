@@ -1,0 +1,18 @@
+# Archivos y carpetas que no queremos incluir en el repositorio
+
+# Logs
+*.log
+
+# Directorios de entorno virtual (ej. Python)
+venv/
+env/
+
+# Archivos temporales de sistema
+.DS_Store
+Thumbs.db
+
+# Node_modules
+node_modules/
+
+# Imágenes generadas por Docker
+*.tar
